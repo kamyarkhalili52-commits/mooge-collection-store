@@ -1,0 +1,1211 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- ===== SEO TAGS ===== -->
+    <title>Mooge Collection | خرید کیف رافیا دست‌بافت زنانه</title>
+    <meta name="description" content="خرید آنلاین کیف رافیا دست‌بافت زنانه | کیف دستی، کوله‌پشتی و کیف ساحلی با جنس رافیا اصل | ارسال سراسر ایران | Mooge Collection">
+    <meta name="keywords" content="کیف رافیا, کیف دست‌بافت, خرید کیف زنانه, کیف ساحلی, کوله رافیا, کیف دستی, موگه کالکشن, کیف طبیعی">
+    <meta name="author" content="Mooge Collection">
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#5C4A32">
+    <link rel="canonical" href="https://moogecollection.ir/">
+
+    <!-- ===== OPEN GRAPH (لینک اشتراک‌گذاری) ===== -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://moogecollection.ir/">
+    <meta property="og:title" content="Mooge Collection | کیف رافیا دست‌بافت">
+    <meta property="og:description" content="کیف‌های رافیا دست‌بافت اصیل ایرانی | ارسال سراسر ایران | ۷ روز ضمانت بازگشت">
+    <meta property="og:image" content="https://moogecollection.ir/og-image.jpg">
+    <meta property="og:locale" content="fa_IR">
+    <meta property="og:site_name" content="Mooge Collection">
+
+    <!-- ===== TWITTER CARD ===== -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Mooge Collection | کیف رافیا">
+    <meta name="twitter:description" content="کیف‌های رافیا دست‌بافت اصیل ایرانی">
+    <meta name="twitter:image" content="https://moogecollection.ir/og-image.jpg">
+
+    <!-- ===== FAVICON ===== -->
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👜</text></svg>">
+    <link rel="apple-touch-icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>👜</text></svg>">
+
+    <!-- ===== SCHEMA.ORG (ساختار داده برای گوگل) ===== -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "Store",
+        "name": "Mooge Collection",
+        "description": "فروشگاه آنلاین کیف رافیا دست‌بافت زنانه",
+        "url": "https://moogecollection.ir",
+        "logo": "https://moogecollection.ir/logo.png",
+        "image": "https://moogecollection.ir/og-image.jpg",
+        "telephone": "+989123456789",
+        "email": "info@moogecollection.ir",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "IR",
+            "addressLocality": "تهران"
+        },
+        "openingHours": "Mo-Fr 09:00-18:00",
+        "priceRange": "$$",
+        "currenciesAccepted": "IRR",
+        "paymentAccepted": "Cash, Credit Card",
+        "sameAs": [
+            "https://instagram.com/mooge.collection",
+            "https://t.me/moogecollection"
+        ],
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": "4.9",
+            "reviewCount": "500"
+        }
+    }
+    </script>
+
+    <!-- ===== PRODUCT SCHEMA ===== -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": "کیف‌های رافیا Mooge Collection",
+        "itemListElement": [
+            {
+                "@type": "ListItem",
+                "position": 1,
+                "item": {
+                    "@type": "Product",
+                    "name": "کیف دستی رافیا کلاسیک",
+                    "description": "کیف دستی دست‌بافت از رافیا طبیعی",
+                    "brand": {"@type": "Brand", "name": "Mooge Collection"},
+                    "offers": {
+                        "@type": "Offer",
+                        "price": "485000",
+                        "priceCurrency": "IRR",
+                        "availability": "https://schema.org/InStock"
+                    }
+                }
+            }
+        ]
+    }
+    </script>
+
+    <!-- ===== SITEMAP & PERFORMANCE ===== -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preload" href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100;300;400;500;600;700;900&display=swap" as="style">
+    <link href="https://fonts.googleapis.com/css2?family=Vazirmatn:wght@100;300;400;500;600;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+    <style>
+        *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+
+        :root {
+            --cream: #FAF7F2;
+            --cream2: #F2EDE4;
+            --brown: #8B6F47;
+            --brown-dark: #5C4A32;
+            --brown-light: #C4A882;
+            --text: #2C2416;
+            --text-muted: #8B7355;
+            --white: #FFFFFF;
+            --border: #E8DDD0;
+            --accent: #D4956A;
+            --green: #7A9E7E;
+            --shadow: 0 4px 30px rgba(139, 111, 71, 0.12);
+            --shadow-hover: 0 20px 60px rgba(139, 111, 71, 0.2);
+        }
+
+        html { scroll-behavior: smooth; }
+
+        body {
+            font-family: 'Vazirmatn', sans-serif;
+            background: var(--cream);
+            color: var(--text);
+            overflow-x: hidden;
+        }
+
+        ::-webkit-scrollbar { width: 5px; }
+        ::-webkit-scrollbar-track { background: var(--cream); }
+        ::-webkit-scrollbar-thumb { background: var(--brown-light); border-radius: 5px; }
+
+        /* ===== LOADER ===== */
+        .loader {
+            position: fixed;
+            inset: 0;
+            background: var(--cream);
+            z-index: 99999;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            transition: opacity 0.6s, visibility 0.6s;
+        }
+        .loader.hidden { opacity: 0; visibility: hidden; }
+        .loader-logo { font-size: 2.2rem; font-weight: 900; color: var(--brown-dark); letter-spacing: 4px; margin-bottom: 30px; }
+        .loader-bar { width: 200px; height: 2px; background: var(--border); border-radius: 2px; overflow: hidden; }
+        .loader-fill { height: 100%; background: linear-gradient(90deg, var(--brown), var(--accent)); border-radius: 2px; animation: load 1.8s ease forwards; }
+        @keyframes load { from { width: 0; } to { width: 100%; } }
+
+        /* ===== ANNOUNCE BAR ===== */
+        .announce-bar {
+            background: var(--brown-dark);
+            color: white;
+            text-align: center;
+            padding: 10px 20px;
+            font-size: 0.82rem;
+            letter-spacing: 1px;
+            position: relative;
+            z-index: 100;
+        }
+        .announce-bar span { color: var(--brown-light); font-weight: 700; }
+
+        /* ===== NAVBAR ===== */
+        nav {
+            position: sticky;
+            top: 0;
+            z-index: 1000;
+            background: rgba(250, 247, 242, 0.95);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid var(--border);
+            padding: 0 60px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            height: 72px;
+            transition: all 0.3s;
+        }
+        nav.scrolled { box-shadow: var(--shadow); }
+        .nav-logo { display: flex; flex-direction: column; align-items: flex-end; }
+        .nav-logo-main { font-size: 1.5rem; font-weight: 900; color: var(--brown-dark); letter-spacing: 3px; line-height: 1; }
+        .nav-logo-sub { font-size: 0.65rem; color: var(--brown-light); letter-spacing: 4px; text-transform: uppercase; }
+        .nav-center { display: flex; gap: 36px; list-style: none; }
+        .nav-center a { color: var(--text-muted); text-decoration: none; font-size: 0.88rem; font-weight: 500; position: relative; transition: color 0.3s; }
+        .nav-center a::after { content: ''; position: absolute; bottom: -3px; right: 0; width: 0; height: 1.5px; background: var(--brown); transition: width 0.3s; }
+        .nav-center a:hover { color: var(--brown-dark); }
+        .nav-center a:hover::after { width: 100%; }
+        .nav-actions { display: flex; align-items: center; gap: 20px; }
+        .nav-icon-btn { background: none; border: none; cursor: pointer; color: var(--text-muted); font-size: 1.1rem; position: relative; transition: color 0.3s; padding: 5px; }
+        .nav-icon-btn:hover { color: var(--brown-dark); }
+        .cart-badge { position: absolute; top: -4px; left: -4px; width: 18px; height: 18px; background: var(--accent); color: white; border-radius: 50%; font-size: 0.65rem; display: flex; align-items: center; justify-content: center; font-weight: 700; }
+        .hamburger { display: none; flex-direction: column; gap: 5px; cursor: pointer; background: none; border: none; padding: 5px; }
+        .hamburger span { display: block; width: 24px; height: 2px; background: var(--brown-dark); border-radius: 2px; transition: all 0.3s; }
+
+        /* ===== MOBILE MENU ===== */
+        .mobile-menu { position: fixed; inset: 0; background: var(--cream); z-index: 998; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 36px; opacity: 0; pointer-events: none; transition: all 0.4s; }
+        .mobile-menu.open { opacity: 1; pointer-events: all; }
+        .mobile-menu a { color: var(--brown-dark); text-decoration: none; font-size: 1.8rem; font-weight: 700; letter-spacing: 2px; transition: color 0.3s; }
+        .mobile-menu a:hover { color: var(--accent); }
+
+        /* ===== HERO ===== */
+        #hero { min-height: calc(100vh - 112px); display: grid; grid-template-columns: 1fr 1fr; overflow: hidden; }
+        .hero-left { display: flex; flex-direction: column; justify-content: center; padding: 80px 60px; background: var(--cream); }
+        .hero-tag { display: inline-flex; align-items: center; gap: 8px; font-size: 0.75rem; color: var(--brown); letter-spacing: 3px; text-transform: uppercase; margin-bottom: 24px; }
+        .hero-tag::before { content: ''; width: 30px; height: 1px; background: var(--brown); }
+        .hero-title { font-size: 3.8rem; font-weight: 900; line-height: 1.2; color: var(--brown-dark); margin-bottom: 20px; }
+        .hero-title em { font-style: normal; color: var(--accent); position: relative; }
+        .hero-title em::after { content: ''; position: absolute; bottom: 4px; right: 0; left: 0; height: 3px; background: var(--accent); opacity: 0.3; border-radius: 2px; }
+        .hero-desc { color: var(--text-muted); font-size: 1rem; line-height: 1.9; margin-bottom: 40px; max-width: 420px; }
+        .hero-btns { display: flex; gap: 16px; flex-wrap: wrap; }
+        .btn-dark { padding: 15px 38px; background: var(--brown-dark); color: white; border: none; border-radius: 4px; font-family: 'Vazirmatn', sans-serif; font-size: 0.9rem; font-weight: 600; cursor: pointer; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; transition: all 0.3s; letter-spacing: 1px; }
+        .btn-dark:hover { background: var(--brown); transform: translateY(-2px); box-shadow: 0 10px 30px rgba(92, 74, 50, 0.3); }
+        .btn-outline { padding: 15px 38px; background: transparent; color: var(--brown-dark); border: 1.5px solid var(--brown-dark); border-radius: 4px; font-family: 'Vazirmatn', sans-serif; font-size: 0.9rem; font-weight: 600; cursor: pointer; text-decoration: none; display: inline-flex; align-items: center; gap: 10px; transition: all 0.3s; }
+        .btn-outline:hover { background: var(--brown-dark); color: white; transform: translateY(-2px); }
+        .hero-stats { display: flex; gap: 40px; margin-top: 50px; padding-top: 40px; border-top: 1px solid var(--border); }
+        .hero-stat-num { font-size: 1.8rem; font-weight: 900; color: var(--brown-dark); line-height: 1; margin-bottom: 4px; }
+        .hero-stat-label { font-size: 0.78rem; color: var(--text-muted); letter-spacing: 1px; }
+        .hero-right { position: relative; background: var(--cream2); overflow: hidden; display: flex; align-items: center; justify-content: center; }
+        .hero-bg-text { position: absolute; font-size: 12rem; font-weight: 900; color: rgba(139, 111, 71, 0.05); letter-spacing: -10px; user-select: none; white-space: nowrap; }
+        .hero-img-wrap { position: relative; z-index: 1; width: 420px; height: 500px; }
+        .hero-img-placeholder { width: 100%; height: 100%; background: linear-gradient(135deg, var(--cream2), var(--border)); border-radius: 8px; display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 16px; box-shadow: var(--shadow-hover); border: 1px solid var(--border); }
+        .hero-float-card { position: absolute; background: white; border-radius: 12px; padding: 14px 18px; box-shadow: 0 10px 40px rgba(139, 111, 71, 0.15); display: flex; align-items: center; gap: 12px; font-size: 0.82rem; z-index: 2; animation: float 3s ease-in-out infinite; }
+        .hero-float-card.card1 { bottom: 40px; right: -20px; animation-delay: 0s; }
+        .hero-float-card.card2 { top: 40px; left: -20px; animation-delay: 1s; }
+        .float-icon { width: 38px; height: 38px; border-radius: 10px; background: var(--cream2); display: flex; align-items: center; justify-content: center; font-size: 1.2rem; }
+        .float-card-text strong { display: block; font-weight: 700; color: var(--brown-dark); }
+        .float-card-text span { color: var(--text-muted); font-size: 0.75rem; }
+        @keyframes float { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-8px); } }
+
+        /* ===== MARQUEE ===== */
+        .marquee-section { background: var(--brown-dark); padding: 16px 0; overflow: hidden; white-space: nowrap; }
+        .marquee-track { display: inline-flex; animation: marquee 20s linear infinite; }
+        .marquee-item { display: inline-flex; align-items: center; gap: 20px; padding: 0 30px; color: var(--brown-light); font-size: 0.82rem; letter-spacing: 2px; text-transform: uppercase; }
+        .marquee-item .dot { width: 4px; height: 4px; background: var(--accent); border-radius: 50%; }
+        @keyframes marquee { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+
+        /* ===== SECTION BASE ===== */
+        .section-header { text-align: center; margin-bottom: 60px; }
+        .section-tag { display: inline-block; font-size: 0.72rem; letter-spacing: 4px; text-transform: uppercase; color: var(--brown); margin-bottom: 14px; position: relative; }
+        .section-tag::before, .section-tag::after { content: '—'; margin: 0 8px; opacity: 0.5; }
+        .section-title { font-size: 2.4rem; font-weight: 900; color: var(--brown-dark); margin-bottom: 14px; }
+        .section-desc { color: var(--text-muted); font-size: 0.95rem; max-width: 450px; margin: 0 auto; line-height: 1.8; }
+
+        /* ===== FEATURES ===== */
+        #features { background: white; padding: 80px 60px; }
+        .features-grid { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: repeat(4, 1fr); gap: 1px; background: var(--border); border: 1px solid var(--border); border-radius: 12px; overflow: hidden; }
+        .feature-item { background: white; padding: 36px 28px; text-align: center; transition: all 0.3s; }
+        .feature-item:hover { background: var(--cream); }
+        .feature-icon { width: 56px; height: 56px; border-radius: 14px; background: var(--cream2); display: flex; align-items: center; justify-content: center; margin: 0 auto 18px; font-size: 1.4rem; color: var(--brown); transition: all 0.3s; }
+        .feature-item:hover .feature-icon { background: var(--brown-dark); color: white; }
+        .feature-title { font-size: 0.95rem; font-weight: 700; color: var(--brown-dark); margin-bottom: 8px; }
+        .feature-desc { font-size: 0.8rem; color: var(--text-muted); line-height: 1.7; }
+
+        /* ===== CATEGORIES ===== */
+        #categories { padding: 100px 60px; background: var(--cream); }
+        .categories-inner { max-width: 1200px; margin: 0 auto; }
+        .categories-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+        .cat-card { position: relative; border-radius: 12px; overflow: hidden; cursor: pointer; background: var(--cream2); border: 1px solid var(--border); transition: all 0.4s; }
+        .cat-card:hover { transform: translateY(-6px); box-shadow: var(--shadow-hover); }
+        .cat-placeholder { width: 100%; height: 280px; background: linear-gradient(135deg, var(--cream2), var(--border)); display: flex; align-items: center; justify-content: center; font-size: 4rem; transition: transform 0.6s ease; }
+        .cat-card:hover .cat-placeholder { transform: scale(1.05); }
+        .cat-body { padding: 22px 24px; display: flex; align-items: center; justify-content: space-between; }
+        .cat-name { font-size: 1.05rem; font-weight: 700; color: var(--brown-dark); }
+        .cat-count { font-size: 0.8rem; color: var(--text-muted); margin-top: 3px; }
+        .cat-arrow { width: 38px; height: 38px; border-radius: 50%; background: var(--cream); border: 1.5px solid var(--border); display: flex; align-items: center; justify-content: center; color: var(--brown-dark); font-size: 0.9rem; transition: all 0.3s; }
+        .cat-card:hover .cat-arrow { background: var(--brown-dark); color: white; border-color: var(--brown-dark); }
+
+        /* ===== PRODUCTS ===== */
+        #products { padding: 100px 60px; background: white; }
+        .products-inner { max-width: 1200px; margin: 0 auto; }
+        .products-filter { display: flex; justify-content: center; gap: 10px; margin-bottom: 50px; flex-wrap: wrap; }
+        .filter-btn { padding: 9px 22px; border: 1.5px solid var(--border); background: transparent; color: var(--text-muted); border-radius: 50px; font-family: 'Vazirmatn', sans-serif; font-size: 0.85rem; cursor: pointer; transition: all 0.3s; }
+        .filter-btn.active, .filter-btn:hover { background: var(--brown-dark); color: white; border-color: var(--brown-dark); }
+        .products-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; }
+        .product-card { border-radius: 12px; overflow: hidden; background: var(--cream); border: 1px solid var(--border); transition: all 0.4s; position: relative; }
+        .product-card:hover { transform: translateY(-8px); box-shadow: var(--shadow-hover); }
+        .product-badge { position: absolute; top: 14px; right: 14px; padding: 4px 12px; border-radius: 50px; font-size: 0.7rem; font-weight: 700; z-index: 1; }
+        .badge-new { background: var(--brown-dark); color: white; }
+        .badge-sale { background: var(--accent); color: white; }
+        .badge-hot { background: #E74C3C; color: white; }
+        .product-img-wrap { position: relative; overflow: hidden; height: 240px; background: var(--cream2); }
+        .product-placeholder { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; font-size: 4rem; background: linear-gradient(135deg, var(--cream2), var(--border)); transition: transform 0.6s ease; }
+        .product-card:hover .product-placeholder { transform: scale(1.06); }
+        .product-actions { position: absolute; bottom: -50px; left: 0; right: 0; display: flex; gap: 8px; padding: 10px; transition: bottom 0.3s ease; justify-content: center; }
+        .product-card:hover .product-actions { bottom: 10px; }
+        .action-btn { padding: 9px 18px; background: var(--brown-dark); color: white; border: none; border-radius: 6px; font-family: 'Vazirmatn', sans-serif; font-size: 0.78rem; font-weight: 600; cursor: pointer; display: flex; align-items: center; gap: 7px; transition: all 0.2s; white-space: nowrap; }
+        .action-btn:hover { background: var(--brown); }
+        .action-btn-icon { width: 36px; height: 36px; background: white; color: var(--brown-dark); border: none; border-radius: 6px; display: flex; align-items: center; justify-content: center; cursor: pointer; font-size: 0.9rem; transition: all 0.2s; }
+        .action-btn-icon:hover { background: var(--cream2); }
+        .product-body { padding: 18px; }
+        .product-cat { font-size: 0.72rem; color: var(--brown); letter-spacing: 2px; text-transform: uppercase; margin-bottom: 6px; }
+        .product-name { font-size: 0.95rem; font-weight: 700; color: var(--brown-dark); margin-bottom: 10px; }
+        .product-footer { display: flex; align-items: center; justify-content: space-between; }
+        .product-price { font-size: 1rem; font-weight: 900; color: var(--brown-dark); }
+        .product-price .old { font-size: 0.78rem; color: var(--text-muted); text-decoration: line-through; font-weight: 400; margin-right: 6px; }
+        .product-colors { display: flex; gap: 5px; }
+        .color-dot { width: 14px; height: 14px; border-radius: 50%; border: 1.5px solid var(--border); cursor: pointer; transition: transform 0.2s; }
+        .color-dot:hover { transform: scale(1.3); }
+
+        /* ===== BANNER ===== */
+        #banner { padding: 80px 60px; background: var(--cream2); }
+        .banner-inner { max-width: 1200px; margin: 0 auto; background: var(--brown-dark); border-radius: 20px; padding: 60px 80px; display: grid; grid-template-columns: 1fr 1fr; gap: 60px; align-items: center; position: relative; overflow: hidden; }
+        .banner-bg { position: absolute; inset: 0; opacity: 0.03; background-image: repeating-linear-gradient(45deg, white 0, white 1px, transparent 0, transparent 50%); background-size: 20px 20px; }
+        .banner-text { position: relative; z-index: 1; }
+        .banner-tag { font-size: 0.72rem; color: var(--brown-light); letter-spacing: 4px; text-transform: uppercase; margin-bottom: 16px; }
+        .banner-title { font-size: 2.4rem; font-weight: 900; color: white; line-height: 1.3; margin-bottom: 16px; }
+        .banner-desc { color: rgba(255,255,255,0.6); font-size: 0.95rem; line-height: 1.8; margin-bottom: 30px; }
+        .banner-visual { position: relative; z-index: 1; display: flex; justify-content: center; }
+        .banner-img-wrap { width: 260px; height: 320px; border-radius: 12px; background: rgba(255,255,255,0.08); display: flex; align-items: center; justify-content: center; font-size: 6rem; border: 1px solid rgba(255,255,255,0.1); }
+
+        /* ===== TESTIMONIALS ===== */
+        #testimonials { padding: 100px 60px; background: white; }
+        .testimonials-inner { max-width: 1200px; margin: 0 auto; }
+        .testimonials-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; }
+        .testimonial-card { padding: 32px; background: var(--cream); border: 1px solid var(--border); border-radius: 16px; transition: all 0.3s; }
+        .testimonial-card:hover { border-color: var(--brown-light); box-shadow: var(--shadow); transform: translateY(-4px); }
+        .testimonial-stars { display: flex; gap: 4px; margin-bottom: 18px; color: #F59E0B; font-size: 0.9rem; }
+        .testimonial-text { color: var(--text-muted); font-size: 0.9rem; line-height: 1.9; margin-bottom: 24px; font-style: italic; }
+        .testimonial-author { display: flex; align-items: center; gap: 14px; }
+        .author-avatar { width: 44px; height: 44px; border-radius: 50%; background: var(--cream2); border: 2px solid var(--border); display: flex; align-items: center; justify-content: center; font-size: 1.2rem; }
+        .author-name { font-size: 0.9rem; font-weight: 700; color: var(--brown-dark); }
+        .author-date { font-size: 0.75rem; color: var(--text-muted); }
+
+        /* ===== INSTAGRAM ===== */
+        #instagram { padding: 100px 60px; background: var(--cream2); }
+        .instagram-inner { max-width: 1200px; margin: 0 auto; }
+        .instagram-grid { display: grid; grid-template-columns: repeat(6, 1fr); gap: 8px; }
+        .insta-item { aspect-ratio: 1; border-radius: 8px; background: var(--border); overflow: hidden; cursor: pointer; position: relative; }
+        .insta-placeholder { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; font-size: 2rem; background: linear-gradient(135deg, var(--cream2), var(--border)); transition: transform 0.4s; }
+        .insta-item:hover .insta-placeholder { transform: scale(1.1); }
+        .insta-overlay { position: absolute; inset: 0; background: rgba(92, 74, 50, 0.7); display: flex; align-items: center; justify-content: center; color: white; font-size: 1.4rem; opacity: 0; transition: opacity 0.3s; }
+        .insta-item:hover .insta-overlay { opacity: 1; }
+
+        /* ===== NEWSLETTER ===== */
+        #newsletter { padding: 80px 60px; background: var(--cream); }
+        .newsletter-inner { max-width: 600px; margin: 0 auto; text-align: center; }
+        .newsletter-form { display: flex; margin-top: 30px; border: 1.5px solid var(--border); border-radius: 6px; overflow: hidden; background: white; transition: border-color 0.3s; }
+        .newsletter-form:focus-within { border-color: var(--brown); }
+        .newsletter-input { flex: 1; padding: 15px 20px; border: none; outline: none; font-family: 'Vazirmatn', sans-serif; font-size: 0.9rem; background: transparent; color: var(--text); }
+        .newsletter-btn { padding: 15px 28px; background: var(--brown-dark); color: white; border: none; font-family: 'Vazirmatn', sans-serif; font-size: 0.85rem; font-weight: 700; cursor: pointer; transition: background 0.3s; letter-spacing: 1px; white-space: nowrap; }
+        .newsletter-btn:hover { background: var(--brown); }
+
+        /* ===== ABOUT ===== */
+        #about { padding: 100px 60px; background: white; }
+        .about-inner { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: 1fr 1fr; gap: 80px; align-items: center; }
+        .about-img-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+        .about-img-item { border-radius: 10px; overflow: hidden; background: var(--cream2); }
+        .about-img-item:first-child { grid-column: span 2; }
+        .about-placeholder { width: 100%; display: flex; align-items: center; justify-content: center; font-size: 3rem; background: linear-gradient(135deg, var(--cream2), var(--border)); }
+        .about-placeholder.tall { height: 240px; }
+        .about-placeholder.short { height: 160px; }
+        .about-tag { font-size: 0.72rem; letter-spacing: 4px; text-transform: uppercase; color: var(--brown); margin-bottom: 16px; }
+        .about-title { font-size: 2.2rem; font-weight: 900; color: var(--brown-dark); line-height: 1.3; margin-bottom: 20px; }
+        .about-text { color: var(--text-muted); font-size: 0.95rem; line-height: 2; margin-bottom: 16px; }
+        .about-vals { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin-top: 32px; }
+        .about-val { display: flex; align-items: flex-start; gap: 12px; padding: 16px; background: var(--cream); border-radius: 10px; border: 1px solid var(--border); }
+        .about-val-icon { color: var(--brown); font-size: 1rem; margin-top: 2px; }
+        .about-val-title { font-size: 0.85rem; font-weight: 700; color: var(--brown-dark); margin-bottom: 3px; }
+        .about-val-desc { font-size: 0.78rem; color: var(--text-muted); line-height: 1.5; }
+
+        /* ===== CONTACT ===== */
+        #contact { padding: 100px 60px; background: var(--cream2); }
+        .contact-inner { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: 1fr 1.2fr; gap: 60px; }
+        .contact-info-title { font-size: 2rem; font-weight: 900; color: var(--brown-dark); margin-bottom: 14px; }
+        .contact-info-desc { color: var(--text-muted); font-size: 0.95rem; line-height: 1.8; margin-bottom: 36px; }
+        .contact-items { display: flex; flex-direction: column; gap: 14px; }
+        .contact-item { display: flex; align-items: center; gap: 16px; padding: 16px 20px; background: white; border: 1px solid var(--border); border-radius: 12px; text-decoration: none; color: var(--text); transition: all 0.3s; }
+        .contact-item:hover { border-color: var(--brown); background: var(--cream); transform: translateX(-6px); }
+        .contact-item-icon { width: 42px; height: 42px; border-radius: 10px; background: var(--cream2); display: flex; align-items: center; justify-content: center; color: var(--brown); font-size: 1rem; }
+        .contact-item-label { font-size: 0.75rem; color: var(--text-muted); margin-bottom: 2px; }
+        .contact-item-value { font-size: 0.9rem; font-weight: 600; color: var(--brown-dark); }
+        .contact-form-wrap { background: white; padding: 40px; border-radius: 16px; border: 1px solid var(--border); }
+        .form-group { margin-bottom: 18px; }
+        .form-group label { display: block; font-size: 0.8rem; color: var(--text-muted); margin-bottom: 7px; font-weight: 500; }
+        .form-group input, .form-group select, .form-group textarea { width: 100%; padding: 13px 16px; border: 1.5px solid var(--border); border-radius: 8px; font-family: 'Vazirmatn', sans-serif; font-size: 0.9rem; color: var(--text); background: var(--cream); outline: none; transition: all 0.3s; resize: none; }
+        .form-group input:focus, .form-group select:focus, .form-group textarea:focus { border-color: var(--brown); background: white; }
+        .form-group textarea { height: 110px; }
+        .form-row { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+        .submit-btn { width: 100%; padding: 15px; background: var(--brown-dark); color: white; border: none; border-radius: 8px; font-family: 'Vazirmatn', sans-serif; font-size: 0.95rem; font-weight: 700; cursor: pointer; transition: all 0.3s; display: flex; align-items: center; justify-content: center; gap: 10px; letter-spacing: 1px; }
+        .submit-btn:hover { background: var(--brown); transform: translateY(-2px); box-shadow: 0 10px 30px rgba(92,74,50,0.3); }
+
+        /* ===== TRUST BADGES ===== */
+        #trust { background: white; padding: 50px 60px; border-top: 1px solid var(--border); }
+        .trust-inner { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: center; gap: 50px; flex-wrap: wrap; }
+        .trust-item { display: flex; flex-direction: column; align-items: center; gap: 10px; opacity: 0.6; transition: opacity 0.3s; }
+        .trust-item:hover { opacity: 1; }
+        .trust-icon { width: 60px; height: 60px; border-radius: 12px; border: 1.5px solid var(--border); display: flex; align-items: center; justify-content: center; font-size: 1.6rem; }
+        .trust-label { font-size: 0.75rem; color: var(--text-muted); text-align: center; }
+
+        /* ===== CART DRAWER ===== */
+        .cart-overlay { position: fixed; inset: 0; background: rgba(0,0,0,0.4); z-index: 2000; opacity: 0; pointer-events: none; transition: opacity 0.3s; }
+        .cart-overlay.open { opacity: 1; pointer-events: all; }
+        .cart-drawer { position: fixed; left: 0; top: 0; bottom: 0; width: 400px; background: white; z-index: 2001; transform: translateX(-100%); transition: transform 0.4s cubic-bezier(0.4, 0, 0.2, 1); display: flex; flex-direction: column; box-shadow: 10px 0 60px rgba(0,0,0,0.2); }
+        .cart-drawer.open { transform: translateX(0); }
+        .cart-header { padding: 24px; border-bottom: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; }
+        .cart-title { font-size: 1.1rem; font-weight: 700; color: var(--brown-dark); }
+        .cart-close { background: none; border: none; cursor: pointer; font-size: 1.2rem; color: var(--text-muted); padding: 6px; transition: color 0.2s; }
+        .cart-close:hover { color: var(--brown-dark); }
+        .cart-items { flex: 1; overflow-y: auto; padding: 20px 24px; }
+        .cart-empty { text-align: center; padding: 60px 20px; color: var(--text-muted); }
+        .cart-empty i { font-size: 3rem; margin-bottom: 16px; display: block; }
+        .cart-item { display: flex; gap: 14px; padding: 16px 0; border-bottom: 1px solid var(--border); }
+        .cart-item-img { width: 70px; height: 80px; border-radius: 8px; background: var(--cream2); display: flex; align-items: center; justify-content: center; font-size: 2rem; flex-shrink: 0; }
+        .cart-item-info { flex: 1; }
+        .cart-item-name { font-size: 0.9rem; font-weight: 600; color: var(--brown-dark); margin-bottom: 6px; }
+        .cart-item-price { font-size: 0.85rem; color: var(--brown); font-weight: 700; }
+        .cart-item-qty { display: flex; align-items: center; gap: 12px; margin-top: 10px; }
+        .qty-btn { width: 28px; height: 28px; border-radius: 50%; border: 1.5px solid var(--border); background: none; cursor: pointer; font-size: 0.9rem; display: flex; align-items: center; justify-content: center; transition: all 0.2s; }
+        .qty-btn:hover { background: var(--brown-dark); color: white; border-color: var(--brown-dark); }
+        .qty-num { font-size: 0.9rem; font-weight: 700; color: var(--brown-dark); }
+        .cart-footer { padding: 24px; border-top: 1px solid var(--border); }
+        .cart-total { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; }
+        .cart-total-label { font-size: 0.9rem; color: var(--text-muted); }
+        .cart-total-price { font-size: 1.2rem; font-weight: 900; color: var(--brown-dark); }
+        .checkout-btn { width: 100%; padding: 16px; background: var(--brown-dark); color: white; border: none; border-radius: 8px; font-family: 'Vazirmatn', sans-serif; font-size: 0.95rem; font-weight: 700; cursor: pointer; transition: all 0.3s; letter-spacing: 1px; }
+        .checkout-btn:hover { background: var(--brown); }
+
+        /* ===== SEARCH ===== */
+        .search-overlay { position: fixed; inset: 0; background: rgba(250,247,242,0.97); backdrop-filter: blur(20px); z-index: 2000; display: flex; align-items: flex-start; justify-content: center; padding-top: 120px; opacity: 0; pointer-events: none; transition: opacity 0.3s; }
+        .search-overlay.open { opacity: 1; pointer-events: all; }
+        .search-box { width: 100%; max-width: 600px; padding: 0 30px; }
+        .search-input-wrap { display: flex; align-items: center; gap: 16px; border-bottom: 2px solid var(--brown-dark); padding-bottom: 16px; margin-bottom: 30px; }
+        .search-input { flex: 1; border: none; outline: none; font-family: 'Vazirmatn', sans-serif; font-size: 1.8rem; background: transparent; color: var(--brown-dark); }
+        .search-input::placeholder { color: var(--border); }
+        .search-close { background: none; border: none; cursor: pointer; font-size: 1.4rem; color: var(--text-muted); }
+
+        /* ===== FOOTER ===== */
+        footer { background: var(--brown-dark); color: white; padding: 70px 60px 30px; }
+        .footer-grid { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: 1.5fr 1fr 1fr 1fr; gap: 50px; margin-bottom: 50px; }
+        .footer-logo-main { font-size: 1.8rem; font-weight: 900; letter-spacing: 3px; color: white; margin-bottom: 4px; }
+        .footer-logo-sub { font-size: 0.65rem; color: var(--brown-light); letter-spacing: 4px; margin-bottom: 18px; }
+        .footer-desc { color: rgba(255,255,255,0.5); font-size: 0.85rem; line-height: 1.9; margin-bottom: 24px; }
+        .footer-socials { display: flex; gap: 10px; }
+        .footer-social { width: 38px; height: 38px; border-radius: 10px; border: 1px solid rgba(255,255,255,0.15); display: flex; align-items: center; justify-content: center; color: rgba(255,255,255,0.5); text-decoration: none; font-size: 0.9rem; transition: all 0.3s; }
+        .footer-social:hover { background: var(--brown); border-color: var(--brown); color: white; }
+        .footer-col-title { font-size: 0.8rem; font-weight: 700; letter-spacing: 3px; text-transform: uppercase; color: var(--brown-light); margin-bottom: 20px; }
+        .footer-links { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+        .footer-links a { color: rgba(255,255,255,0.5); text-decoration: none; font-size: 0.88rem; transition: color 0.3s; }
+        .footer-links a:hover { color: white; }
+        .footer-bottom { max-width: 1200px; margin: 0 auto; padding-top: 30px; border-top: 1px solid rgba(255,255,255,0.08); display: flex; align-items: center; justify-content: space-between; }
+        .footer-copy { font-size: 0.8rem; color: rgba(255,255,255,0.3); }
+        .footer-pay { display: flex; gap: 10px; align-items: center; }
+        .pay-badge { padding: 5px 12px; border: 1px solid rgba(255,255,255,0.15); border-radius: 6px; font-size: 0.72rem; color: rgba(255,255,255,0.4); }
+
+        /* ===== SCROLL TOP ===== */
+        .scroll-top { position: fixed; bottom: 30px; left: 30px; width: 46px; height: 46px; background: var(--brown-dark); color: white; border: none; border-radius: 10px; display: flex; align-items: center; justify-content: center; font-size: 1rem; cursor: pointer; box-shadow: var(--shadow); opacity: 0; pointer-events: none; transition: all 0.3s; z-index: 500; }
+        .scroll-top.show { opacity: 1; pointer-events: all; }
+        .scroll-top:hover { background: var(--brown); transform: translateY(-3px); }
+
+        /* ===== TOAST ===== */
+        .toast { position: fixed; bottom: 30px; right: 30px; padding: 14px 24px; background: var(--brown-dark); color: white; border-radius: 10px; font-size: 0.88rem; font-weight: 600; display: flex; align-items: center; gap: 10px; z-index: 9999; transform: translateY(80px); opacity: 0; transition: all 0.4s; box-shadow: var(--shadow-hover); }
+        .toast.show { transform: translateY(0); opacity: 1; }
+
+        /* ===== REVEAL ===== */
+        .reveal { opacity: 0; transform: translateY(30px); transition: all 0.7s cubic-bezier(0.4, 0, 0.2, 1); }
+        .reveal.visible { opacity: 1; transform: translateY(0); }
+
+        /* ===== RESPONSIVE ===== */
+        @media (max-width: 1100px) {
+            .products-grid { grid-template-columns: repeat(3, 1fr); }
+            .footer-grid { grid-template-columns: 1fr 1fr; gap: 30px; }
+            .instagram-grid { grid-template-columns: repeat(3, 1fr); }
+        }
+        @media (max-width: 900px) {
+            nav { padding: 0 24px; }
+            .nav-center { display: none; }
+            .hamburger { display: flex; }
+            #hero { grid-template-columns: 1fr; min-height: auto; }
+            .hero-left { padding: 60px 24px; text-align: center; }
+            .hero-title { font-size: 2.6rem; }
+            .hero-desc { margin: 0 auto 30px; }
+            .hero-btns { justify-content: center; }
+            .hero-stats { justify-content: center; }
+            .hero-right { height: 350px; }
+            .hero-img-wrap { width: 260px; height: 320px; }
+            .hero-float-card { display: none; }
+            #features { padding: 60px 24px; }
+            .features-grid { grid-template-columns: repeat(2, 1fr); }
+            #categories { padding: 70px 24px; }
+            .categories-grid { grid-template-columns: 1fr 1fr; }
+            #products { padding: 70px 24px; }
+            .products-grid { grid-template-columns: repeat(2, 1fr); }
+            #banner { padding: 50px 24px; }
+            .banner-inner { padding: 40px; grid-template-columns: 1fr; text-align: center; }
+            .banner-visual { display: none; }
+            #testimonials { padding: 70px 24px; }
+            .testimonials-grid { grid-template-columns: 1fr; }
+            #instagram { padding: 70px 24px; }
+            .instagram-grid { grid-template-columns: repeat(3, 1fr); }
+            #newsletter { padding: 60px 24px; }
+            #about { padding: 70px 24px; }
+            .about-inner { grid-template-columns: 1fr; gap: 40px; }
+            #contact { padding: 70px 24px; }
+            .contact-inner { grid-template-columns: 1fr; }
+            #trust { padding: 40px 24px; }
+            .trust-inner { gap: 30px; }
+            footer { padding: 50px 24px 24px; }
+            .footer-grid { grid-template-columns: 1fr; gap: 30px; }
+            .footer-bottom { flex-direction: column; gap: 12px; text-align: center; }
+            .cart-drawer { width: 100%; }
+        }
+        @media (max-width: 550px) {
+            .products-grid { grid-template-columns: 1fr; }
+            .form-row { grid-template-columns: 1fr; }
+            .hero-title { font-size: 2rem; }
+            .instagram-grid { grid-template-columns: repeat(2, 1fr); }
+            .categories-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+
+<!-- LOADER -->
+<div class="loader" id="loader">
+    <div class="loader-logo">MOOGE</div>
+    <div class="loader-bar"><div class="loader-fill"></div></div>
+</div>
+
+<!-- SEARCH OVERLAY -->
+<div class="search-overlay" id="searchOverlay">
+    <div class="search-box">
+        <div class="search-input-wrap">
+            <i class="fas fa-search" style="color:var(--brown);font-size:1.4rem"></i>
+            <input type="text" class="search-input" placeholder="دنبال چی می‌گردی؟" id="searchInput">
+            <button class="search-close" onclick="toggleSearch()"><i class="fas fa-times"></i></button>
+        </div>
+        <p style="color:var(--text-muted);font-size:0.85rem">کیف رافیا، کوله، کیف دستی و...</p>
+    </div>
+</div>
+
+<!-- CART OVERLAY -->
+<div class="cart-overlay" id="cartOverlay" onclick="toggleCart()"></div>
+
+<!-- CART DRAWER -->
+<div class="cart-drawer" id="cartDrawer">
+    <div class="cart-header">
+        <span class="cart-title">🛍️ سبد خرید</span>
+        <button class="cart-close" onclick="toggleCart()"><i class="fas fa-times"></i></button>
+    </div>
+    <div class="cart-items" id="cartItems">
+        <div class="cart-empty" id="cartEmpty">
+            <i class="fas fa-shopping-bag"></i>
+            <p style="font-weight:600;color:var(--brown-dark);margin-bottom:8px">سبد خالیه!</p>
+            <p style="font-size:0.85rem">برو یه چیز خوشگل انتخاب کن 🛍️</p>
+        </div>
+    </div>
+    <div class="cart-footer">
+        <div class="cart-total">
+            <span class="cart-total-label">جمع کل:</span>
+            <span class="cart-total-price" id="cartTotal">۰ تومان</span>
+        </div>
+        <button class="checkout-btn" onclick="checkout()">
+            <i class="fas fa-lock" style="margin-left:8px"></i> پرداخت امن
+        </button>
+    </div>
+</div>
+
+<!-- MOBILE MENU -->
+<div class="mobile-menu" id="mobileMenu">
+    <a href="#hero" onclick="closeMobile()">خانه</a>
+    <a href="#products" onclick="closeMobile()">محصولات</a>
+    <a href="#categories" onclick="closeMobile()">دسته‌بندی</a>
+    <a href="#about" onclick="closeMobile()">درباره ما</a>
+    <a href="#contact" onclick="closeMobile()">تماس</a>
+</div>
+
+<!-- ANNOUNCE BAR -->
+<div class="announce-bar">
+    🎁 ارسال رایگان برای خریدهای بالای <span>۵۰۰ هزار تومان</span> — کد تخفیف: <span>MOOGE10</span>
+</div>
+
+<!-- NAVBAR -->
+<nav id="navbar">
+    <div class="nav-logo">
+        <div class="nav-logo-main">MOOGE</div>
+        <div class="nav-logo-sub">Collection</div>
+    </div>
+    <ul class="nav-center">
+        <li><a href="#hero">خانه</a></li>
+        <li><a href="#products">محصولات</a></li>
+        <li><a href="#categories">دسته‌بندی</a></li>
+        <li><a href="#about">درباره ما</a></li>
+        <li><a href="#contact">تماس</a></li>
+    </ul>
+    <div class="nav-actions">
+        <button class="nav-icon-btn" onclick="toggleSearch()"><i class="fas fa-search"></i></button>
+        <button class="nav-icon-btn"><i class="far fa-heart"></i></button>
+        <button class="nav-icon-btn" onclick="toggleCart()">
+            <i class="fas fa-shopping-bag"></i>
+            <span class="cart-badge" id="cartBadge">0</span>
+        </button>
+        <button class="hamburger" id="hamburger" onclick="toggleMobile()">
+            <span></span><span></span><span></span>
+        </button>
+    </div>
+</nav>
+
+<!-- HERO -->
+<section id="hero">
+    <div class="hero-left">
+        <div class="hero-tag">کلکسیون جدید ۱۴۰۳</div>
+        <h1 class="hero-title">کیف‌های رافیا<br>با <em>دست‌بافت</em><br>اصیل</h1>
+        <p class="hero-desc">هر کیف یه داستانه. از دل طبیعت، با دست‌های ماهر — برای زنی که می‌دونه سبک خودشو.</p>
+        <div class="hero-btns">
+            <a href="#products" class="btn-dark"><i class="fas fa-shopping-bag"></i> خرید کنید</a>
+            <a href="#about" class="btn-outline"><i class="fas fa-leaf"></i> داستان ما</a>
+        </div>
+        <div class="hero-stats">
+            <div><div class="hero-stat-num">۵۰۰+</div><div class="hero-stat-label">مشتری راضی</div></div>
+            <div><div class="hero-stat-num">۱۰۰%</div><div class="hero-stat-label">دست‌بافت اصیل</div></div>
+            <div><div class="hero-stat-num">۴.۹⭐</div><div class="hero-stat-label">امتیاز مشتریان</div></div>
+        </div>
+    </div>
+    <div class="hero-right">
+        <div class="hero-bg-text">MOOGE</div>
+        <div class="hero-img-wrap">
+            <div class="hero-img-placeholder">
+                <i class="fas fa-shopping-bag" style="font-size:5rem;color:var(--brown-light)"></i>
+                <span style="color:var(--text-muted);font-size:0.85rem">تصویر محصول اینجا</span>
+            </div>
+            <div class="hero-float-card card1">
+                <div class="float-icon">🌿</div>
+                <div class="float-card-text"><strong>۱۰۰% طبیعی</strong><span>جنس رافیا اصل</span></div>
+            </div>
+            <div class="hero-float-card card2">
+                <div class="float-icon">✨</div>
+                <div class="float-card-text"><strong>دست‌بافت</strong><span>هنر اصیل ایرانی</span></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- MARQUEE -->
+<div class="marquee-section" aria-hidden="true">
+    <div class="marquee-track">
+        <span class="marquee-item">کیف رافیا <span class="dot"></span></span>
+        <span class="marquee-item">دست‌بافت اصیل <span class="dot"></span></span>
+        <span class="marquee-item">کوله‌پشتی <span class="dot"></span></span>
+        <span class="marquee-item">کیف دستی <span class="dot"></span></span>
+        <span class="marquee-item">ارسال سراسر ایران <span class="dot"></span></span>
+        <span class="marquee-item">کیف ساحلی <span class="dot"></span></span>
+        <span class="marquee-item">طراحی منحصربه‌فرد <span class="dot"></span></span>
+        <span class="marquee-item">کیف رافیا <span class="dot"></span></span>
+        <span class="marquee-item">دست‌بافت اصیل <span class="dot"></span></span>
+        <span class="marquee-item">کوله‌پشتی <span class="dot"></span></span>
+        <span class="marquee-item">کیف دستی <span class="dot"></span></span>
+        <span class="marquee-item">ارسال سراسر ایران <span class="dot"></span></span>
+        <span class="marquee-item">کیف ساحلی <span class="dot"></span></span>
+        <span class="marquee-item">طراحی منحصربه‌فرد <span class="dot"></span></span>
+    </div>
+</div>
+
+<!-- FEATURES -->
+<div id="features">
+    <div class="features-grid">
+        <div class="feature-item reveal">
+            <div class="feature-icon"><i class="fas fa-truck"></i></div>
+            <div class="feature-title">ارسال سریع</div>
+            <div class="feature-desc">ارسال به تمام نقاط ایران در کمتر از ۳ روز کاری</div>
+        </div>
+        <div class="feature-item reveal">
+            <div class="feature-icon"><i class="fas fa-undo"></i></div>
+            <div class="feature-title">۷ روز مرجوعی</div>
+            <div class="feature-desc">اگه راضی نبودی، بدون سوال پس می‌گیریم</div>
+        </div>
+        <div class="feature-item reveal">
+            <div class="feature-icon"><i class="fas fa-shield-alt"></i></div>
+            <div class="feature-title">پرداخت امن</div>
+            <div class="feature-desc">درگاه پرداخت معتبر و رمزنگاری‌شده SSL</div>
+        </div>
+        <div class="feature-item reveal">
+            <div class="feature-icon"><i class="fas fa-headset"></i></div>
+            <div class="feature-title">پشتیبانی ۲۴/۷</div>
+            <div class="feature-desc">هر سوالی داری، ما اینجاییم</div>
+        </div>
+    </div>
+</div>
+
+<!-- CATEGORIES -->
+<section id="categories">
+    <div class="categories-inner">
+        <div class="section-header reveal">
+            <div class="section-tag">دسته‌بندی</div>
+            <h2 class="section-title">سبک خودت رو پیدا کن</h2>
+            <p class="section-desc">از ساحل تا شهر، برای هر مناسبت یه کیف داریم</p>
+        </div>
+        <div class="categories-grid">
+            <div class="cat-card reveal" onclick="filterProducts('کیف دستی')">
+                <div class="cat-placeholder">👜</div>
+                <div class="cat-body">
+                    <div><div class="cat-name">کیف دستی</div><div class="cat-count">۱۲ محصول</div></div>
+                    <div class="cat-arrow"><i class="fas fa-arrow-left"></i></div>
+                </div>
+            </div>
+            <div class="cat-card reveal" onclick="filterProducts('کوله')">
+                <div class="cat-placeholder">🎒</div>
+                <div class="cat-body">
+                    <div><div class="cat-name">کوله‌پشتی</div><div class="cat-count">۸ محصول</div></div>
+                    <div class="cat-arrow"><i class="fas fa-arrow-left"></i></div>
+                </div>
+            </div>
+            <div class="cat-card reveal" onclick="filterProducts('کیف ساحلی')">
+                <div class="cat-placeholder">👝</div>
+                <div class="cat-body">
+                    <div><div class="cat-name">کیف ساحلی</div><div class="cat-count">۶ محصول</div></div>
+                    <div class="cat-arrow"><i class="fas fa-arrow-left"></i></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- PRODUCTS -->
+<section id="products">
+    <div class="products-inner">
+        <div class="section-header reveal">
+            <div class="section-tag">محصولات</div>
+            <h2 class="section-title">جدیدترین کلکسیون</h2>
+            <p class="section-desc">هر کدوم با عشق بافته شده، برای تو</p>
+        </div>
+        <div class="products-filter reveal">
+            <button class="filter-btn active" onclick="setFilter(this,'همه')">همه</button>
+            <button class="filter-btn" onclick="setFilter(this,'کیف دستی')">کیف دستی</button>
+            <button class="filter-btn" onclick="setFilter(this,'کوله')">کوله‌پشتی</button>
+            <button class="filter-btn" onclick="setFilter(this,'کیف ساحلی')">کیف ساحلی</button>
+            <button class="filter-btn" onclick="setFilter(this,'کیف کوچک')">کیف کوچک</button>
+        </div>
+        <div class="products-grid" id="productsGrid"></div>
+    </div>
+</section>
+
+<!-- BANNER -->
+<section id="banner">
+    <div class="banner-inner">
+        <div class="banner-bg"></div>
+        <div class="banner-text reveal">
+            <div class="banner-tag">پیشنهاد ویژه</div>
+            <h2 class="banner-title">رافیا طبیعی،<br>زیبایی پایدار</h2>
+            <p class="banner-desc">کیف‌های ما از رافیا ۱۰۰% طبیعی ساخته می‌شن. سبک، بادوام، و دوستدار محیط‌زیست.</p>
+            <a href="#products" class="btn-dark" style="background:white;color:var(--brown-dark)">
+                <i class="fas fa-leaf"></i> کشف کنید
+            </a>
+        </div>
+        <div class="banner-visual reveal">
+            <div class="banner-img-wrap">🌿</div>
+        </div>
+    </div>
+</section>
+
+<!-- TESTIMONIALS -->
+<section id="testimonials">
+    <div class="testimonials-inner">
+        <div class="section-header reveal">
+            <div class="section-tag">نظرات</div>
+            <h2 class="section-title">مشتری‌ها چی میگن؟</h2>
+            <p class="section-desc">صداقت مشتری‌هامون بهترین تبلیغه</p>
+        </div>
+        <div class="testimonials-grid">
+            <div class="testimonial-card reveal">
+                <div class="testimonial-stars"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></div>
+                <p class="testimonial-text">«واقعاً عاشق کیفم شدم! جنسش خیلی خوبه و طراحیش منحصربه‌فرده. همه ازم می‌پرسن کجا خریدم!»</p>
+                <div class="testimonial-author">
+                    <div class="author-avatar">👩</div>
+                    <div><div class="author-name">سارا محمدی</div><div class="author-date">اسفند ۱۴۰۲</div></div>
+                </div>
+            </div>
+            <div class="testimonial-card reveal">
+                <div class="testimonial-stars"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i></div>
+                <p class="testimonial-text">«ارسال سریع، بسته‌بندی شیک، کیف هم که دیگه حرف نداره. قطعاً دوباره خرید می‌کنم.»</p>
+                <div class="testimonial-author">
+                    <div class="author-avatar">👩‍🦱</div>
+                    <div><div class="author-name">نگار رضایی</div><div class="author-date">بهمن ۱۴۰۲</div></div>
+                </div>
+            </div>
+            <div class="testimonial-card reveal">
+                <div class="testimonial-stars"><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star-half-alt"></i></div>
+                <p class="testimonial-text">«کیف ساحلیمو تابستون برای سفر بردم، همه دوستام پسندیدن. کیفیت دست‌باف بودنش مشخصه.»</p>
+                <div class="testimonial-author">
+                    <div class="author-avatar">🧕</div>
+                    <div><div class="author-name">فاطمه کریمی</div><div class="author-date">مهر ۱۴۰۲</div></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- INSTAGRAM -->
+<section id="instagram">
+    <div class="instagram-inner">
+        <div class="section-header reveal">
+            <div class="section-tag">اینستاگرام</div>
+            <h2 class="section-title">ما رو فالو کن</h2>
+            <p class="section-desc">@mooge.collection — روزانه محصولات جدید پست می‌کنیم</p>
+        </div>
+        <div class="instagram-grid reveal">
+            <a href="https://instagram.com/mooge.collection" class="insta-item"><div class="insta-placeholder">👜</div><div class="insta-overlay"><i class="fab fa-instagram"></i></div></a>
+            <a href="https://instagram.com/mooge.collection" class="insta-item"><div class="insta-placeholder">🎒</div><div class="insta-overlay"><i class="fab fa-instagram"></i></div></a>
+            <a href="https://instagram.com/mooge.collection" class="insta-item"><div class="insta-placeholder">👝</div><div class="insta-overlay"><i class="fab fa-instagram"></i></div></a>
+            <a href="https://instagram.com/mooge.collection" class="insta-item"><div class="insta-placeholder">🌿</div><div class="insta-overlay"><i class="fab fa-instagram"></i></div></a>
+            <a href="https://instagram.com/mooge.collection" class="insta-item"><div class="insta-placeholder">✨</div><div class="insta-overlay"><i class="fab fa-instagram"></i></div></a>
+            <a href="https://instagram.com/mooge.collection" class="insta-item"><div class="insta-placeholder">🛍️</div><div class="insta-overlay"><i class="fab fa-instagram"></i></div></a>
+        </div>
+    </div>
+</section>
+
+<!-- NEWSLETTER -->
+<section id="newsletter">
+    <div class="newsletter-inner reveal">
+        <div class="section-tag">خبرنامه</div>
+        <h2 class="section-title">اول بدون!</h2>
+        <p class="section-desc">ایمیلت رو بذار تا از تخفیف‌ها و محصولات جدید اول از همه باخبر بشی</p>
+        <div class="newsletter-form">
+            <input type="email" class="newsletter-input" placeholder="ایمیل شما" id="newsletterEmail">
+            <button class="newsletter-btn" onclick="subscribeNewsletter()">عضویت رایگان</button>
+        </div>
+    </div>
+</section>
+
+<!-- ABOUT -->
+<section id="about">
+    <div class="about-inner">
+        <div class="about-img-grid reveal">
+            <div class="about-img-item"><div class="about-placeholder tall">🌿</div></div>
+            <div class="about-img-item"><div class="about-placeholder short">👜</div></div>
+            <div class="about-img-item"><div class="about-placeholder short">✂️</div></div>
+        </div>
+        <div class="reveal">
+            <div class="about-tag">درباره Mooge Collection</div>
+            <h2 class="about-title">از طبیعت،<br>برای تو</h2>
+            <p class="about-text">Mooge Collection در سال ۱۴۰۰ با یه ایده ساده شروع کرد: کیف‌هایی که هم زیبا باشن، هم به طبیعت احترام بذارن.</p>
+            <p class="about-text">هر کیف ما یه اثر هنری منحصربه‌فرده که با صبر و دقت بافته می‌شه. هیچ دو تا کیفی عین هم نیستن — درست مثل تو.</p>
+            <div class="about-vals">
+                <div class="about-val"><i class="fas fa-leaf about-val-icon"></i><div><div class="about-val-title">طبیعی ۱۰۰٪</div><div class="about-val-desc">رافیا اصل، بدون مواد شیمیایی</div></div></div>
+                <div class="about-val"><i class="fas fa-hands about-val-icon"></i><div><div class="about-val-title">دست‌بافت</div><div class="about-val-desc">توسط هنرمندان ایرانی</div></div></div>
+                <div class="about-val"><i class="fas fa-heart about-val-icon"></i><div><div class="about-val-title">با عشق</div><div class="about-val-desc">هر کیف با محبت ساخته می‌شه</div></div></div>
+                <div class="about-val"><i class="fas fa-recycle about-val-icon"></i><div><div class="about-val-title">پایدار</div><div class="about-val-desc">دوستدار محیط‌زیست</div></div></div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- CONTACT -->
+<section id="contact">
+    <div class="contact-inner">
+        <div class="reveal">
+            <div class="about-tag">تماس با ما</div>
+            <h2 class="contact-info-title">سوال داری؟<br>بپرس! 💬</h2>
+            <p class="contact-info-desc">هر سوالی درباره محصولات، سفارش یا همکاری داری، خوشحال می‌شیم جواب بدیم.</p>
+            <div class="contact-items">
+                <a href="https://instagram.com/mooge.collection" class="contact-item" target="_blank">
+                    <div class="contact-item-icon"><i class="fab fa-instagram"></i></div>
+                    <div><div class="contact-item-label">اینستاگرام</div><div class="contact-item-value">@mooge.collection</div></div>
+                </a>
+                <a href="https://t.me/moogecollection" class="contact-item" target="_blank">
+                    <div class="contact-item-icon"><i class="fab fa-telegram"></i></div>
+                    <div><div class="contact-item-label">تلگرام</div><div class="contact-item-value">@moogecollection</div></div>
+                </a>
+                <a href="tel:+989123456789" class="contact-item">
+                    <div class="contact-item-icon"><i class="fas fa-phone"></i></div>
+                    <div><div class="contact-item-label">تلفن</div><div class="contact-item-value">۰۹۱۲-۳۴۵-۶۷۸۹</div></div>
+                </a>
+                <a href="mailto:info@moogecollection.ir" class="contact-item">
+                    <div class="contact-item-icon"><i class="fas fa-envelope"></i></div>
+                    <div><div class="contact-item-label">ایمیل</div><div class="contact-item-value">info@moogecollection.ir</div></div>
+                </a>
+            </div>
+        </div>
+        <div class="contact-form-wrap reveal">
+            <h3 style="font-size:1.1rem;font-weight:700;color:var(--brown-dark);margin-bottom:24px">پیام بفرست</h3>
+            <div class="form-row">
+                <div class="form-group"><label>نام</label><input type="text" placeholder="اسمت چیه؟" id="cName"></div>
+                <div class="form-group"><label>شماره تماس</label><input type="tel" placeholder="۰۹۱۲..." id="cPhone"></div>
+            </div>
+            <div class="form-group">
+                <label>موضوع</label>
+                <select id="cSubject">
+                    <option value="">انتخاب کن</option>
+                    <option>سوال درباره محصول</option>
+                    <option>پیگیری سفارش</option>
+                    <option>همکاری</option>
+                    <option>پیشنهاد و انتقاد</option>
+                </select>
+            </div>
+            <div class="form-group"><label>پیام</label><textarea placeholder="چی می‌خوای بگی؟" id="cMessage"></textarea></div>
+            <button class="submit-btn" onclick="sendContact()"><i class="fas fa-paper-plane"></i> ارسال پیام</button>
+        </div>
+    </div>
+</section>
+
+<!-- TRUST BADGES -->
+<div id="trust">
+    <div class="trust-inner">
+        <div class="trust-item">
+            <div class="trust-icon">🔒</div>
+            <div class="trust-label">پرداخت امن SSL</div>
+        </div>
+        <div class="trust-item">
+            <div class="trust-icon">🏅</div>
+            <div class="trust-label">نماد اعتماد</div>
+        </div>
+        <div class="trust-item">
+            <div class="trust-icon">↩️</div>
+            <div class="trust-label">۷ روز ضمانت برگشت</div>
+        </div>
+        <div class="trust-item">
+            <div class="trust-icon">🚚</div>
+            <div class="trust-label">ارسال سراسری</div>
+        </div>
+        <div class="trust-item">
+            <div class="trust-icon">💯</div>
+            <div class="trust-label">کالای اصل</div>
+        </div>
+    </div>
+</div>
+
+<!-- FOOTER -->
+<footer>
+    <div class="footer-grid">
+        <div>
+            <div class="footer-logo-main">MOOGE</div>
+            <div class="footer-logo-sub">Collection</div>
+            <p class="footer-desc">کیف‌های رافیا دست‌بافت ایرانی. با طبیعت، برای طبیعت. هر کیف یه داستانه.</p>
+            <div class="footer-socials">
+                <a href="https://instagram.com/mooge.collection" class="footer-social" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="https://t.me/moogecollection" class="footer-social" target="_blank"><i class="fab fa-telegram"></i></a>
+                <a href="#" class="footer-social"><i class="fab fa-whatsapp"></i></a>
+                <a href="#" class="footer-social"><i class="fab fa-twitter"></i></a>
+            </div>
+        </div>
+        <div>
+            <div class="footer-col-title">محصولات</div>
+            <ul class="footer-links">
+                <li><a href="#">کیف دستی</a></li>
+                <li><a href="#">کوله‌پشتی</a></li>
+                <li><a href="#">کیف ساحلی</a></li>
+                <li><a href="#">کیف کوچک</a></li>
+                <li><a href="#">تازه‌ها</a></li>
+            </ul>
+        </div>
+        <div>
+            <div class="footer-col-title">اطلاعات</div>
+            <ul class="footer-links">
+                <li><a href="#">درباره ما</a></li>
+                <li><a href="#">نحوه سفارش</a></li>
+                <li><a href="#">شرایط ارسال</a></li>
+                <li><a href="#">قوانین مرجوعی</a></li>
+                <li><a href="#">حریم خصوصی</a></li>
+            </ul>
+        </div>
+        <div>
+            <div class="footer-col-title">پشتیبانی</div>
+            <ul class="footer-links">
+                <li><a href="#">سوالات متداول</a></li>
+                <li><a href="#">پیگیری سفارش</a></li>
+                <li><a href="#">تماس با ما</a></li>
+                <li><a href="https://instagram.com/mooge.collection">اینستاگرام</a></li>
+                <li><a href="https://t.me/moogecollection">تلگرام</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="footer-bottom">
+        <div class="footer-copy">© ۱۴۰۳ Mooge Collection — تمامی حقوق محفوظ است</div>
+        <div class="footer-pay">
+            <span class="pay-badge">🔒 SSL</span>
+            <span class="pay-badge">درگاه بانکی</span>
+            <span class="pay-badge">پرداخت امن</span>
+        </div>
+    </div>
+</footer>
+
+<!-- SCROLL TOP -->
+<button class="scroll-top" id="scrollTop" onclick="window.scrollTo({top:0,behavior:'smooth'})">
+    <i class="fas fa-chevron-up"></i>
+</button>
+
+<!-- TOAST -->
+<div class="toast" id="toast">
+    <i class="fas fa-check-circle" id="toastIcon"></i>
+    <span id="toastMsg">عملیات موفق</span>
+</div>
+
+<!-- ===== SITEMAP.XML (فایل جداگانه) ===== -->
+<!--
+    یه فایل sitemap.xml بساز با این محتوا:
+    <?xml version="1.0" encoding="UTF-8"?>
+    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+        <url><loc>https://moogecollection.ir/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+    </urlset>
+-->
+
+<!-- ===== ROBOTS.TXT (فایل جداگانه) ===== -->
+<!--
+    یه فایل robots.txt بساز با این محتوا:
+    User-agent: *
+    Allow: /
+    Sitemap: https://moogecollection.ir/sitemap.xml
+-->
+
+<script>
+// ===== DATA =====
+const products = [
+    { id:1, name:'کیف دستی رافیا کلاسیک', cat:'کیف دستی', price:485000, oldPrice:null, emoji:'👜', badge:'new', colors:['#8B6F47','#C4A882','#5C4A32'] },
+    { id:2, name:'کوله رافیا بوهو', cat:'کوله', price:620000, oldPrice:750000, emoji:'🎒', badge:'sale', colors:['#8B7355','#C4A882'] },
+    { id:3, name:'کیف ساحلی سامر', cat:'کیف ساحلی', price:395000, oldPrice:null, emoji:'👝', badge:'hot', colors:['#D4956A','#8B6F47','#FAF7F2'] },
+    { id:4, name:'کیف مینی رافیا', cat:'کیف کوچک', price:285000, oldPrice:320000, emoji:'👛', badge:'sale', colors:['#C4A882','#8B6F47'] },
+    { id:5, name:'کوله بزرگ بیچ', cat:'کوله', price:720000, oldPrice:null, emoji:'🎒', badge:'new', colors:['#5C4A32','#8B7355','#D4956A'] },
+    { id:6, name:'کیف دستی مدرن', cat:'کیف دستی', price:540000, oldPrice:600000, emoji:'👜', badge:'sale', colors:['#2C2416','#8B6F47'] },
+    { id:7, name:'کیف ساحلی اکزوتیک', cat:'کیف ساحلی', price:450000, oldPrice:null, emoji:'🌿', badge:'new', colors:['#7A9E7E','#C4A882'] },
+    { id:8, name:'کیف کوچک روزانه', cat:'کیف کوچک', price:320000, oldPrice:380000, emoji:'👝', badge:null, colors:['#D4956A','#8B6F47','#FAF7F2'] },
+];
+
+let cart = [];
+
+// ===== RENDER PRODUCTS =====
+function renderProducts(filter = 'همه') {
+    const grid = document.getElementById('productsGrid');
+    const filtered = filter === 'همه' ? products : products.filter(p => p.cat === filter);
+    grid.innerHTML = filtered.map(p => `
+        <div class="product-card" itemscope itemtype="https://schema.org/Product">
+            ${p.badge ? `<div class="product-badge badge-${p.badge === 'new' ? 'new' : p.badge === 'sale' ? 'sale' : 'hot'}">${p.badge === 'new' ? 'جدید' : p.badge === 'sale' ? 'تخفیف' : '🔥 داغ'}</div>` : ''}
+            <div class="product-img-wrap">
+                <div class="product-placeholder" role="img" aria-label="${p.name}">${p.emoji}</div>
+                <div class="product-actions">
+                    <button class="action-btn" onclick="addToCart(${p.id})"><i class="fas fa-cart-plus"></i> افزودن به سبد</button>
+                    <button class="action-btn-icon" onclick="toggleWishlist(this)" aria-label="علاقه‌مندی"><i class="far fa-heart"></i></button>
+                </div>
+            </div>
+            <div class="product-body">
+                <div class="product-cat">${p.cat}</div>
+                <div class="product-name" itemprop="name">${p.name}</div>
+                <div class="product-footer">
+                    <div class="product-price" itemprop="price">
+                        ${p.oldPrice ? `<span class="old">${p.oldPrice.toLocaleString('fa-IR')} تومان</span>` : ''}
+                        ${p.price.toLocaleString('fa-IR')} تومان
+                    </div>
+                    <div class="product-colors">${p.colors.map(c => `<div class="color-dot" style="background:${c}"></div>`).join('')}</div>
+                </div>
+            </div>
+        </div>
+    `).join('');
+}
+
+function setFilter(btn, filter) {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    renderProducts(filter);
+}
+
+function filterProducts(cat) {
+    document.getElementById('products').scrollIntoView({ behavior: 'smooth' });
+    setTimeout(() => renderProducts(cat), 600);
+}
+
+// ===== CART =====
+function addToCart(id) {
+    const product = products.find(p => p.id === id);
+    const existing = cart.find(i => i.id === id);
+    existing ? existing.qty++ : cart.push({ ...product, qty: 1 });
+    updateCart();
+    showToast(`${product.name} به سبد اضافه شد! 🛍️`, 'check-circle');
+}
+
+function updateCart() {
+    const totalQty = cart.reduce((s, i) => s + i.qty, 0);
+    document.getElementById('cartBadge').textContent = totalQty;
+    const total = cart.reduce((s, i) => s + i.price * i.qty, 0);
+    document.getElementById('cartTotal').textContent = total.toLocaleString('fa-IR') + ' تومان';
+    const itemsEl = document.getElementById('cartItems');
+    if (cart.length === 0) {
+        itemsEl.innerHTML = `<div class="cart-empty"><i class="fas fa-shopping-bag"></i><p style="font-weight:600;color:var(--brown-dark);margin-bottom:8px">سبد خالیه!</p><p style="font-size:0.85rem">برو یه چیز خوشگل انتخاب کن 🛍️</p></div>`;
+        return;
+    }
+    itemsEl.innerHTML = cart.map(item => `
+        <div class="cart-item">
+            <div class="cart-item-img">${item.emoji}</div>
+            <div class="cart-item-info">
+                <div class="cart-item-name">${item.name}</div>
+                <div class="cart-item-price">${item.price.toLocaleString('fa-IR')} تومان</div>
+                <div class="cart-item-qty">
+                    <button class="qty-btn" onclick="changeQty(${item.id},-1)"><i class="fas fa-minus"></i></button>
+                    <span class="qty-num">${item.qty}</span>
+                    <button class="qty-btn" onclick="changeQty(${item.id},1)"><i class="fas fa-plus"></i></button>
+                    <button class="qty-btn" onclick="removeFromCart(${item.id})" style="margin-right:auto;color:#E74C3C"><i class="fas fa-trash"></i></button>
+                </div>
+            </div>
+        </div>
+    `).join('');
+}
+
+function changeQty(id, delta) {
+    const item = cart.find(i => i.id === id);
+    if (item) { item.qty += delta; if (item.qty <= 0) cart = cart.filter(i => i.id !== id); updateCart(); }
+}
+
+function removeFromCart(id) { cart = cart.filter(i => i.id !== id); updateCart(); }
+
+function toggleCart() {
+    document.getElementById('cartDrawer').classList.toggle('open');
+    document.getElementById('cartOverlay').classList.toggle('open');
+    document.body.style.overflow = document.getElementById('cartDrawer').classList.contains('open') ? 'hidden' : '';
+}
+
+function checkout() {
+    if (cart.length === 0) { showToast('سبد خریدت خالیه! ⚠️', 'exclamation-circle'); return; }
+    showToast('در حال انتقال به درگاه پرداخت...', 'lock');
+    setTimeout(() => { cart = []; updateCart(); toggleCart(); }, 2000);
+}
+
+function toggleWishlist(btn) {
+    const icon = btn.querySelector('i');
+    icon.classList.toggle('far'); icon.classList.toggle('fas');
+    icon.style.color = icon.classList.contains('fas') ? '#E74C3C' : '';
+    showToast(icon.classList.contains('fas') ? 'به علاقه‌مندی‌ها اضافه شد ❤️' : 'از علاقه‌مندی‌ها حذف شد', 'heart');
+}
+
+// ===== SEARCH =====
+function toggleSearch() {
+    const overlay = document.getElementById('searchOverlay');
+    overlay.classList.toggle('open');
+    overlay.classList.contains('open') ? (document.getElementById('searchInput').focus(), document.body.style.overflow = 'hidden') : (document.body.style.overflow = '');
+}
+
+// ===== MOBILE MENU =====
+function toggleMobile() {
+    const menu = document.getElementById('mobileMenu');
+    const hamburger = document.getElementById('hamburger');
+    menu.classList.toggle('open');
+    const spans = hamburger.querySelectorAll('span');
+    if (menu.classList.contains('open')) {
+        spans[0].style.transform = 'rotate(45deg) translate(5px,5px)';
+        spans[1].style.opacity = '0';
+        spans[2].style.transform = 'rotate(-45deg) translate(5px,-5px)';
+        document.body.style.overflow = 'hidden';
+    } else {
+        spans.forEach(s => { s.style.transform = ''; s.style.opacity = ''; });
+        document.body.style.overflow = '';
+    }
+}
+
+function closeMobile() {
+    document.getElementById('mobileMenu').classList.remove('open');
+    document.getElementById('hamburger').querySelectorAll('span').forEach(s => { s.style.transform = ''; s.style.opacity = ''; });
+    document.body.style.overflow = '';
+}
+
+// ===== KEYBOARD =====
+document.addEventListener('keydown', e => {
+    if (e.key === 'Escape') {
+        document.getElementById('searchOverlay').classList.remove('open');
+        document.body.style.overflow = '';
+    }
+});
+
+// ===== SCROLL =====
+window.addEventListener('scroll', () => {
+    document.getElementById('navbar').classList.toggle('scrolled', window.scrollY > 50);
+    document.getElementById('scrollTop').classList.toggle('show', window.scrollY > 400);
+});
+
+// ===== REVEAL =====
+const revealObs = new IntersectionObserver(entries => {
+    entries.forEach(entry => {
+        if (entry.isIntersecting) { entry.target.classList.add('visible'); revealObs.unobserve(entry.target); }
+    });
+}, { threshold: 0.05, rootMargin: '0px 0px -20px 0px' });
+
+document.querySelectorAll('.reveal').forEach(el => revealObs.observe(el));
+
+setTimeout(() => {
+    document.querySelectorAll('.reveal').forEach(el => {
+        if (el.getBoundingClientRect().top < window.innerHeight) el.classList.add('visible');
+    });
+}, 100);
+
+// ===== NEWSLETTER =====
+function subscribeNewsletter() {
+    const email = document.getElementById('newsletterEmail').value;
+    if (!email || !email.includes('@')) { showToast('ایمیل معتبر وارد کن! ⚠️', 'exclamation-circle'); return; }
+    showToast('عضویت موفق! خوش اومدی 🎉', 'check-circle');
+    document.getElementById('newsletterEmail').value = '';
+}
+
+// ===== CONTACT =====
+function sendContact() {
+    const name = document.getElementById('cName').value;
+    const phone = document.getElementById('cPhone').value;
+    const msg = document.getElementById('cMessage').value;
+    if (!name || !phone || !msg) { showToast('لطفاً همه فیلدها رو پر کن! ⚠️', 'exclamation-circle'); return; }
+    showToast('پیامت دریافت شد! بزودی جواب می‌دیم 💬', 'check-circle');
+    ['cName','cPhone','cMessage'].forEach(id => document.getElementById(id).value = '');
+}
+
+// ===== TOAST =====
+function showToast(msg, icon = 'check-circle') {
+    const toast = document.getElementById('toast');
+    document.getElementById('toastMsg').textContent = msg;
+    document.getElementById('toastIcon').className = `fas fa-${icon}`;
+    toast.classList.add('show');
+    setTimeout(() => toast.classList.remove('show'), 3000);
+}
+
+// ===== LOADER =====
+window.addEventListener('load', () => setTimeout(() => document.getElementById('loader').classList.add('hidden'), 1800));
+
+// ===== INIT =====
+renderProducts();
+updateCart();
+</script>
+</body>
+</html>
